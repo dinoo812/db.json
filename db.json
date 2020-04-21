@@ -1,0 +1,18 @@
+    userDetails:{
+        idUser: "d8ba8585-9c55-486a-9395-48fc7366d491",
+        userLogin: "RutgeJPaul45",
+        firstName: "John",
+        lastName: "Paul",
+        userType: "INS",
+        idInstitute: "02e435be-b59d-41dd-9665-1f49ede7fdea",
+        instName: "Rutgers",
+        email:'dinoo812@gmail.com',
+        phone:'+91 - 9738342263',
+        organisationname: "Indian Institite of Science",
+        addresssDetail: {
+          address1 : "No 8, Comfort Enclave",
+          address2 : 'Hanumanth Nagar',
+          zip:787878,
+          state:'Kerala'
+        }
+      }
